@@ -67,10 +67,3 @@ plt.xlabel("distance")
 plt.ylabel("velocity")
 plt.title("Distance vs velocity")
 plt.show()
-
-
-# In[ ]:
-
-
-
-
